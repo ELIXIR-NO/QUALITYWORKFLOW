@@ -1,0 +1,1 @@
+clumpify.sh deleteinput=f delete=t dedupe=t -Xmx64g in=$clumpifyIN1 in2=$clumpifyIN2 out=$clumpifyOUT1 out2=$clumpifyOUT2 > clumpify.txt 2> $clumpifyReportFilename

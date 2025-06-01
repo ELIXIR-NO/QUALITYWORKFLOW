@@ -1,0 +1,1 @@
+fastp -j $fastpReportJSON -h $fastpReportFilename -i $fastpIN1 -I $fastpIN2 -o $fastpOUT1 -O $fastpOUT2
